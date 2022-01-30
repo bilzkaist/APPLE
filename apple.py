@@ -1,6 +1,6 @@
 #*****************************************************************************
 #
-#  APPLE: Artificial Particle filter for Positioning and Localization Estimation Code.
+#  APPLE: Adaptive Particle filter for Positioning and Localization Estimation Code.
 #                             Written  by Bilal Dastagir.
 #                                Jan, 26th, 2022
 #
