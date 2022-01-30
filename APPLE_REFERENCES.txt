@@ -1,1 +1,4 @@
 APPLE REFERENCES:
+1. A. Krishna, A. van Schaik and C. S. Thakur, "FPGA Implementation of Particle Filters for Robotic Source Localization," in IEEE Access, vol. 9, pp. 98185-98203, 2021, doi: 10.1109/ACCESS.2021.3094962.
+2. Liu, Shuanglong, Grigorios Mingas, and Christos-Savvas Bouganis. "Parallel resampling for particle filters on FPGAs." 2014 International Conference on Field-Programmable Technology (FPT). IEEE, 2014.
+3. Elfring J, Torta E, van de Molengraft R. Particle Filters: A Hands-On Tutorial. Sensors (Basel). 2021;21(2):438. Published 2021 Jan 9. doi:10.3390/s21020438
