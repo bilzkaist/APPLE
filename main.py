@@ -14,6 +14,7 @@ import math
 import bisect
 import time as tm
 
+from apple import *
 from draw import Maze
 
 #Global Variables 
