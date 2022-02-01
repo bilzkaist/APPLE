@@ -1,8 +1,8 @@
 #*****************************************************************************
 #
-#  APPLE: Adaptive Particle filter for Positioning and Localization Estimation Code.
-#                             Written  by Bilal Dastagir.
-#                                Jan, 26th, 2022
+#  APPLE: Accelerating Particle filter for Positioning and Localization Estimation Code.
+#                             Written  by Bilal Dastagir & Omer Tariq.
+#                                Feb, 1st, 2022
 #
 #******************************************************************************
 
@@ -11,10 +11,10 @@
 from simulator import Robot, Visualizer, World
 
 # Supported resampling methods (resampling algorithm enum for SIR and SIR-derived particle filters)
-from core.resampling import ResamplingAlgorithms
+from system.resampling import ResamplingAlgorithms
 
 # Particle filters
-from core.particle_filters import ParticleFilterSIR
+from system.particle_filters import ParticleFilterSIR
 
 
 

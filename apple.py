@@ -1,11 +1,10 @@
 #*****************************************************************************
 #
-#  APPLE: Adaptive Particle filter for Positioning and Localization Estimation Code.
-#                             Written  by Bilal Dastagir.
-#                                Jan, 26th, 2022
+#  APPLE: Accelerating Particle filter for Positioning and Localization Estimation Code.
+#                             Written  by Bilal Dastagir & Omer Tariq.
+#                                Feb, 1st, 2022
 #
 #******************************************************************************
-
 
 
 #Global Variables 
