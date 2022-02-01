@@ -13,6 +13,7 @@ sys.path.append('/Users/bilaldastagir/Documents/vscode/APPLE/APPLE/')
 
 # Simulation + plotting requires a robot, visualizer and world
 #from simulator import Robot, Visualizer, World
+import system.simulator.arena 
 
 # Supported resampling methods (resampling algorithm enum for SIR and SIR-derived particle filters)
 from system.resampling.resampler import ResamplingAlgorithms
