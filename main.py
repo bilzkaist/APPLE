@@ -6,15 +6,19 @@
 #
 #******************************************************************************
 
+#FOLDERPATH =  "/Users/bilaldastagir/Documents/vscode/APPLE/APPLE"
+import sys
+
+sys.path.append('/Users/bilaldastagir/Documents/vscode/APPLE/APPLE/')
 
 # Simulation + plotting requires a robot, visualizer and world
-from simulator import Robot, Visualizer, World
+#from simulator import Robot, Visualizer, World
 
 # Supported resampling methods (resampling algorithm enum for SIR and SIR-derived particle filters)
-from system.resampling import ResamplingAlgorithms
+from system.resampling.resampler import ResamplingAlgorithms
 
 # Particle filters
-from system.particle_filters import ParticleFilterSIR
+from system.particle_filters.particle_filter_sir import ParticleFilterSIR
 
 
 
@@ -27,6 +31,7 @@ CHARLIE = [3]
 def run_beta():
     print("Beta Program is Started........... !!!")
     # Write code Here
+    print("System Path = ",sys.path)
     print("Beta Program is Ended Successfully !!!")
     return BETA
 
